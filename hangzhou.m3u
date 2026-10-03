@@ -38,19 +38,19 @@ http://192.168.50.1:23310/udp/233.50.200.113:5140
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/环球奇观.png" group-title="央视",环球奇观
 http://192.168.50.1:23310/udp/233.50.201.222:5140
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://192.168.50.1:23310/udp/233.50.201.100:5140
+http://101.35.240.114:88/live.php?id=浙江卫视
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://192.168.50.1:23310/udp/233.50.201.101:5140
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/广东卫视.png" group-title="卫视",广东卫视
 http://192.168.50.1:23310/udp/233.50.201.102:5140
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://192.168.50.1:23310/udp/233.50.201.103:5140
+http://101.35.240.114:88/live.php?id=湖南卫视
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/天津卫视.png" group-title="卫视",天津卫视
 http://192.168.50.1:23310/udp/233.50.201.104:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/山东卫视.png" group-title="卫视",山东卫视
 http://192.168.50.1:23310/udp/233.50.201.105:5140
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://192.168.50.1:23310/udp/233.50.201.106:5140
+http://101.35.240.114:88/live.php?id=江苏卫视
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.50.1:23310/udp/233.50.201.107:5140
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/纪实科教.png" group-title="卫视",纪实科教
@@ -68,13 +68,13 @@ http://192.168.50.1:23310/udp/233.50.201.143:5140
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/河南卫视.png" group-title="卫视",河南卫视
 http://192.168.50.1:23310/udp/233.50.201.144:5140
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/江西卫视.png" group-title="卫视",江西卫视
-http://192.168.50.1:23310/udp/233.50.201.145:5140
+http://101.35.240.114:88/live.php?id=江西卫视
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/东南卫视.png" group-title="卫视",东南卫视
 http://192.168.50.1:23310/udp/233.50.201.146:5140
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://192.168.50.1:23310/udp/233.50.201.113:5140
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://192.168.50.1:23310/udp/233.50.201.114:5140
+http://101.35.240.114:88/live.php?id=湖北卫视
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://192.168.50.1:23310/udp/233.50.201.115:5140
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/东方卫视.png" group-title="卫视",东方卫视
@@ -96,9 +96,9 @@ http://192.168.50.1:23310/udp/233.50.201.148:5140
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/青海卫视.png" group-title="卫视",青海卫视
 http://192.168.50.1:23310/udp/233.50.201.65:5140
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://192.168.50.1:23310/udp/233.50.202.43:5140
+http://101.35.240.114:88/live.php?id=西藏卫视
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://192.168.50.1:23310/udp/233.50.201.59:5140
+http://101.35.240.114:88/live.php?id=陕西卫视
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://192.168.50.1:23310/udp/233.50.202.44:5140
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/山西卫视.png" group-title="卫视",山西卫视
