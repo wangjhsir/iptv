@@ -1,44 +1,34 @@
 #EXTM3U x-tvg-url="https://myepg.org/EPG/Zhejiang_Multicast.xml.gz"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV1.png" group-title="央视",CCTV1综合
-http://192.168.50.1:23310/udp/233.50.201.118:5140
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV2.png" group-title="央视",CCTV2财经
-http://192.168.50.1:23310/udp/233.50.201.119:5140
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV3.png" group-title="央视",CCTV3综艺
-http://192.168.50.1:23310/udp/233.50.201.196:5140
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV4.png" group-title="央视",CCTV4中文国际
-http://192.168.50.1:23310/udp/233.50.200.101:5140
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV5.png" group-title="央视",CCTV5体育
-http://192.168.50.1:23310/udp/233.50.201.197:5140
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV5+.png" group-title="央视",CCTV5+体育赛事
-http://192.168.50.1:23310/udp/233.50.201.220:5140
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV6.png" group-title="央视",CCTV6电影
-http://192.168.50.1:23310/udp/233.50.201.198:5140
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV7.png" group-title="央视",CCTV7国防军事
-http://192.168.50.1:23310/udp/233.50.201.120:5140
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV8.png" group-title="央视",CCTV8电视剧
-http://192.168.50.1:23310/udp/233.50.201.199:5140
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV9.png" group-title="央视",CCTV9纪录
-http://192.168.50.1:23310/udp/233.50.201.121:5140
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV10.png" group-title="央视",CCTV10科教
-http://192.168.50.1:23310/udp/233.50.201.122:5140
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV11.png" group-title="央视",CCTV11戏曲
-http://192.168.50.1:23310/udp/233.50.200.132:5140
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV12.png" group-title="央视",CCTV12社会与法
-http://192.168.50.1:23310/udp/233.50.201.123:5140
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV13.png" group-title="央视",CCTV13新闻
-http://192.168.50.1:23310/udp/233.50.201.246:5140
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV14.png" group-title="央视",CCTV14少儿
-http://192.168.50.1:23310/udp/233.50.201.124:5140
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV15.png" group-title="央视",CCTV15音乐
-http://192.168.50.1:23310/udp/233.50.200.133:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV16.png" group-title="央视",CCTV16奥林匹克
-http://192.168.50.1:23310/udp/233.50.201.192:5140
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV17.png" group-title="央视",CCTV17农业农村
-http://192.168.50.1:23310/udp/233.50.200.113:5140
-#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/环球奇观.png" group-title="央视",环球奇观
-http://192.168.50.1:23310/udp/233.50.201.222:5140
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://192.168.50.1:23310/udp/233.50.201.100:5140
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/钱江频道.png" group-title="地方",钱江频道
+http://192.168.50.1:23310/udp/233.50.201.132:5140
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/浙江经济生活.png" group-title="地方",浙江经济生活
+http://192.168.50.1:23310/udp/233.50.201.133:5140
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/浙江教科影视.png" group-title="地方",浙江教科影视
+http://192.168.50.1:23310/udp/233.50.201.134:5140
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/浙江民生休闲.png" group-title="地方",浙江民生休闲
+http://192.168.50.1:23310/udp/233.50.201.136:5140
+#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/浙江公共新闻.png" group-title="地方",浙江公共新闻
+http://192.168.50.1:23310/udp/233.50.201.137:5140
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/浙江少儿.png" group-title="地方",浙江少儿
+http://192.168.50.1:23310/udp/233.50.201.138:5140
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/之江纪录.png" group-title="地方",之江纪录
+http://192.168.50.1:23310/udp/233.50.202.25:5140
+#EXTINF:-1 tvg-id="杭州1综合" tvg-name="杭州1综合" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/杭州综合.png" group-title="地方",杭州1综合
+http://192.168.50.1:23310/udp/233.50.201.173:5140
+#EXTINF:-1 tvg-id="杭州2明珠" tvg-name="杭州2明珠" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/杭州明珠.png" group-title="地方",杭州2明珠
+http://192.168.50.1:23310/udp/233.50.201.174:5140
+#EXTINF:-1 tvg-id="杭州3生活" tvg-name="杭州3生活" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/杭州生活.png" group-title="地方",杭州3生活
+http://192.168.50.1:23310/udp/233.50.201.175:5140
+#EXTINF:-1 tvg-id="杭州4影视" tvg-name="杭州4影视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/杭州影视.png" group-title="地方",杭州4影视
+http://192.168.50.1:23310/udp/233.50.201.176:5140
+#EXTINF:-1 tvg-id="杭州5青少" tvg-name="杭州5青少" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/杭州青少.png" group-title="地方",杭州5青少
+http://192.168.50.1:23310/udp/233.50.201.177:5140
+#EXTINF:-1 tvg-id="临平新闻" tvg-name="临平新闻" tvg-logo="" group-title="地方",临平新闻
+http://192.168.50.1:23310/udp/233.50.202.32:5140
+#EXTINF:-1 tvg-id="余杭新闻" tvg-name="余杭新闻" tvg-logo="" group-title="地方",余杭新闻
+http://192.168.50.1:23310/udp/233.50.201.159:5140
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://192.168.50.1:23310/udp/233.50.201.101:5140
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/广东卫视.png" group-title="卫视",广东卫视
@@ -53,8 +43,6 @@ http://192.168.50.1:23310/udp/233.50.201.105:5140
 http://192.168.50.1:23310/udp/233.50.201.106:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.50.1:23310/udp/233.50.201.107:5140
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/纪实科教.png" group-title="卫视",纪实科教
-http://192.168.50.1:23310/udp/233.50.202.34:5140
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/四川卫视.png" group-title="卫视",四川卫视
 http://192.168.50.1:23310/udp/233.50.201.139:5140
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/河北卫视.png" group-title="卫视",河北卫视
@@ -107,6 +95,46 @@ http://192.168.50.1:23310/udp/233.50.201.51:5140
 http://192.168.50.1:23310/udp/233.50.202.45:5140
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://192.168.50.1:23310/udp/233.50.202.46:5140
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV1.png" group-title="央视",CCTV1综合
+http://192.168.50.1:23310/udp/233.50.201.118:5140
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV2.png" group-title="央视",CCTV2财经
+http://192.168.50.1:23310/udp/233.50.201.119:5140
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV3.png" group-title="央视",CCTV3综艺
+http://192.168.50.1:23310/udp/233.50.201.196:5140
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV4.png" group-title="央视",CCTV4中文国际
+http://192.168.50.1:23310/udp/233.50.200.101:5140
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV5.png" group-title="央视",CCTV5体育
+http://192.168.50.1:23310/udp/233.50.201.197:5140
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV5+.png" group-title="央视",CCTV5+体育赛事
+http://192.168.50.1:23310/udp/233.50.201.220:5140
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV6.png" group-title="央视",CCTV6电影
+http://192.168.50.1:23310/udp/233.50.201.198:5140
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV7.png" group-title="央视",CCTV7国防军事
+http://192.168.50.1:23310/udp/233.50.201.120:5140
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV8.png" group-title="央视",CCTV8电视剧
+http://192.168.50.1:23310/udp/233.50.201.199:5140
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV9.png" group-title="央视",CCTV9纪录
+http://192.168.50.1:23310/udp/233.50.201.121:5140
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV10.png" group-title="央视",CCTV10科教
+http://192.168.50.1:23310/udp/233.50.201.122:5140
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV11.png" group-title="央视",CCTV11戏曲
+http://192.168.50.1:23310/udp/233.50.200.132:5140
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV12.png" group-title="央视",CCTV12社会与法
+http://192.168.50.1:23310/udp/233.50.201.123:5140
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV13.png" group-title="央视",CCTV13新闻
+http://192.168.50.1:23310/udp/233.50.201.246:5140
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV14.png" group-title="央视",CCTV14少儿
+http://192.168.50.1:23310/udp/233.50.201.124:5140
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV15.png" group-title="央视",CCTV15音乐
+http://192.168.50.1:23310/udp/233.50.200.133:5140
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV16.png" group-title="央视",CCTV16奥林匹克
+http://192.168.50.1:23310/udp/233.50.201.192:5140
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CCTV17.png" group-title="央视",CCTV17农业农村
+http://192.168.50.1:23310/udp/233.50.200.113:5140
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/环球奇观.png" group-title="央视",环球奇观
+http://192.168.50.1:23310/udp/233.50.201.222:5140
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/纪实科教.png" group-title="卫视",纪实科教
+http://192.168.50.1:23310/udp/233.50.202.34:5140
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CETV1.png" group-title="卫视",中国教育1台
 http://192.168.50.1:23310/udp/233.50.200.169:5140
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CETV4.png" group-title="卫视",中国教育4台
@@ -129,34 +157,6 @@ http://192.168.50.1:23310/udp/233.50.201.37:5140
 http://192.168.50.1:23310/udp/233.50.201.38:5140
 #EXTINF:-1 tvg-id="CGTN俄罗斯语" tvg-name="CGTN俄罗斯语" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/CGTN俄罗斯语.png" group-title="国际",CGTN俄罗斯语
 http://192.168.50.1:23310/udp/233.50.201.39:5140
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/钱江频道.png" group-title="地方",钱江频道
-http://192.168.50.1:23310/udp/233.50.201.132:5140
-#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/浙江经济生活.png" group-title="地方",浙江经济生活
-http://192.168.50.1:23310/udp/233.50.201.133:5140
-#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/浙江教科影视.png" group-title="地方",浙江教科影视
-http://192.168.50.1:23310/udp/233.50.201.134:5140
-#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/浙江民生休闲.png" group-title="地方",浙江民生休闲
-http://192.168.50.1:23310/udp/233.50.201.136:5140
-#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/浙江公共新闻.png" group-title="地方",浙江公共新闻
-http://192.168.50.1:23310/udp/233.50.201.137:5140
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/浙江少儿.png" group-title="地方",浙江少儿
-http://192.168.50.1:23310/udp/233.50.201.138:5140
-#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/之江纪录.png" group-title="地方",之江纪录
-http://192.168.50.1:23310/udp/233.50.202.25:5140
-#EXTINF:-1 tvg-id="杭州1综合" tvg-name="杭州1综合" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/杭州综合.png" group-title="地方",杭州1综合
-http://192.168.50.1:23310/udp/233.50.201.173:5140
-#EXTINF:-1 tvg-id="杭州2明珠" tvg-name="杭州2明珠" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/杭州明珠.png" group-title="地方",杭州2明珠
-http://192.168.50.1:23310/udp/233.50.201.174:5140
-#EXTINF:-1 tvg-id="杭州3生活" tvg-name="杭州3生活" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/杭州生活.png" group-title="地方",杭州3生活
-http://192.168.50.1:23310/udp/233.50.201.175:5140
-#EXTINF:-1 tvg-id="杭州4影视" tvg-name="杭州4影视" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/杭州影视.png" group-title="地方",杭州4影视
-http://192.168.50.1:23310/udp/233.50.201.176:5140
-#EXTINF:-1 tvg-id="杭州5青少" tvg-name="杭州5青少" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/杭州青少.png" group-title="地方",杭州5青少
-http://192.168.50.1:23310/udp/233.50.201.177:5140
-#EXTINF:-1 tvg-id="临平新闻" tvg-name="临平新闻" tvg-logo="" group-title="地方",临平新闻
-http://192.168.50.1:23310/udp/233.50.202.32:5140
-#EXTINF:-1 tvg-id="余杭新闻" tvg-name="余杭新闻" tvg-logo="" group-title="地方",余杭新闻
-http://192.168.50.1:23310/udp/233.50.201.159:5140
 #EXTINF:-1 tvg-id="宁波1新闻" tvg-name="宁波1新闻" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/宁波新闻综合.png" group-title="地方",宁波1新闻
 http://192.168.50.1:23310/udp/233.50.201.168:5140
 #EXTINF:-1 tvg-id="宁波2经济" tvg-name="宁波2经济" tvg-logo="https://raw.githubusercontent.com/wangjhsir/Zhejiang_Telecom_IPTV/refs/heads/main/Logo/宁波经济生活.png" group-title="地方",宁波2经济
